@@ -35,3 +35,31 @@ th{
 .colored{
   background-color: #B1E5F2;
 }
+
+/*footer*/
+
+.piedipagina{
+  color: #808080;
+}
+
+.box-image-first{
+  background-image: url(../img/monitor.jpg);
+  width: 312px;
+  height: 208px;
+}
+
+.box-image-first p{
+  color: white;
+  padding-top: 15px;
+}
+
+.box-image-second{
+  background-image: url(../img/graph.jpg);
+  width: 312px;
+  height: 208px;
+}
+
+.box-image-second p{
+  color: white;
+  padding-top: 15px;
+}
