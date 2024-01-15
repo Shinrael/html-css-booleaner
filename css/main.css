@@ -1,8 +1,22 @@
-.Banner{
+header{
   background-image: url(../img/pattern.png);
   background-color: #4EA0FF;
+  width: 1510px;
+  height: 150px;
   }
 
-header p{
+.banner{
+  width: 200px;
+  height: 500px;
+}  
+.sottotitolo{
   color: #C6C6C6;
+}
+
+.the-booleaner{
+  color: #4EA0FF;
+}
+
+.underline{
+  background-color: yellow;
 }
