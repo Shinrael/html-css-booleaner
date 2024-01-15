@@ -30,6 +30,11 @@ header{
 th{
   color: white;
   background-color: #20A9E5;
+  text-align: left;
+}
+
+.piccolo{
+  width: 300px;
 }
 
 .colored{
